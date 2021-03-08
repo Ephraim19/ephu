@@ -1,6 +1,4 @@
-#https://www.alibabacloud.com/blog/develop-a-cart-application-with-django_594697
-#https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
-
+#python code for crawling the internet
 import requests
 import bs4
 import random
